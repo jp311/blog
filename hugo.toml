@@ -1,0 +1,6 @@
+baseURL = 'https://jp311.github.io/'
+languageCode = 'zh-cn'
+title = "jp311's Blog"
+
+theme = 'mini'
+defaultContentLanguage = 'zh'
