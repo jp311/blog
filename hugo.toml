@@ -1,6 +1,17 @@
-baseURL = 'https://jp311.github.io/'
-languageCode = 'zh-cn'
+baseURL = "https://jp311.github.io/"
+languageCode = "zh-CN"
 title = "jp311's Blog"
+theme = "mini"
 
-theme = 'mini'
-defaultContentLanguage = 'zh'
+defaultContentLanguage = "en"
+hasCJKLanuage = true
+
+[permalinks]
+posts = "/posts/:title/"
+
+[params]
+author = "jp311"
+bio = "Software Engineer"
+
+[social]
+github = "https://github.com/jp311/"
