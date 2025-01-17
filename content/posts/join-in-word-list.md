@@ -1,7 +1,9 @@
 +++
 title = 'JOIN IN 剑桥小学英语词汇表'
-date = 2025-01-17T23:23:23Z
+date = 2025-01-17
 +++
+
+<!--more-->
 
 # 三年级上册
 ## Starter unit

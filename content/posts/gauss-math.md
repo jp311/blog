@@ -1,7 +1,9 @@
 +++
 title = '高斯小学数学合集'
-date = 2024-06-25T07:51:52Z
+date = 2024-06-25
 +++
+
+<!--more-->
 
 * 一年级 [BV1zd4y1a7AW](https://b23.tv/BV1zd4y1a7AW)
 * 二年级 [BV1Wy4y1f7mY](https://b23.tv/BV1Wy4y1f7mY)
