@@ -1,4 +1,4 @@
-baseURL = "https://jp311.github.io/"
+baseURL = "https://jp311.github.io/blog"
 languageCode = "zh-CN"
 title = "jp311's Blog"
 theme = "mini"
